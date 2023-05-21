@@ -1,2 +1,2 @@
 # my_portfolio Link
-https://chandra-mouliswar-reddy.github.io/my_portfolio/
+https://chandra-mouliswar-reddy.github.io/my_portfolio/profile.html
